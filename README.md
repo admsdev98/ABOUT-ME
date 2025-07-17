@@ -60,6 +60,11 @@
 <br><br>
 <br><br>
 
+<h2 align="left"> Mis proyectos</h2>
+
+- Chatbot personalizado: https://github.com/admsdev98/A-BOT
+- HowWorthIsThatGame (WIP): https://github.com/admsdev98/HogWorthIsThatGame
+
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
